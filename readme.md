@@ -2,7 +2,7 @@
 
 A real-time Computer Vision project built using Python, OpenCV, and MediaPipe. The application detects hand gestures and displays interactive Augmented Reality (AR) visual effects in real time.
 ## ✨ Features
-
+rrrtrttyyty
 - Real-time hand tracking
 - Open Hand, Pinch, and Fist gesture detection
 - Interactive AR interface
