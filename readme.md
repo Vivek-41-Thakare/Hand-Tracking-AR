@@ -8,7 +8,7 @@ A real-time Computer Vision project built using Python, OpenCV, and MediaPipe. T
 - Interactive AR interface
 - Smooth animations and HUD effects
 - Live webcam processing
-zvvfb
+
 ## 🛠️ Tech Stack
 - Python
 - OpenCV
